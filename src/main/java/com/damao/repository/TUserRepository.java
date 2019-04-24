@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
  * @author huyongxing
- * @email huyongxing@qihaiyun.com
+ * @site www.skson.com
  * @date 2018/8/2 10:00
  */
 public interface TUserRepository extends JpaRepository<TUser, Integer> {

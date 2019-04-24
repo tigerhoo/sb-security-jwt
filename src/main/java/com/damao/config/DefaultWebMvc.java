@@ -15,7 +15,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
 /**
  * @author huyongxing
- * @email huyongxing@qihaiyun.com
+ * @site www.skson.com
  * @date 2018/8/2 10:04
  */
 @Configuration

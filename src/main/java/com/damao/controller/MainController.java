@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author huyongxing
- * @email huyongxing@qihaiyun.com
+ * @site www.skson.com
  * @date 2018/8/2 9:37
  */
 @RestController
